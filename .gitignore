@@ -1,6 +1,5 @@
-.env
-credentials.json
-*.json
-
-.Python
-venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+config.py
