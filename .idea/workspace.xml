@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52753eba-a355-44e3-8f50-9d81d611446d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/telegram_bot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.idea/OpenEyes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/handlers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/handlers/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/handlers/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/handlers/info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/handlers/registration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/handlers/start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/keyboards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/sheets_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenEyes/states.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="38QxnPWjKTjOz3BmGJuy1hI3zjC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/karbarkar/kkarbarkar_git/telegram_bot"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/OpenEyes" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52753eba-a355-44e3-8f50-9d81d611446d" name="Changes" comment="" />
+      <created>1768745761359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768745761359</updated>
+    </task>
+    <servers />
+  </component>
+</project>
