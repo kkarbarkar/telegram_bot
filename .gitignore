@@ -1,5 +1,6 @@
-.idea/
-__pycache__/
-*.pyc
-.DS_Store
-config.py
+.env
+credentials.json
+*.json
+
+.Python
+venv/
