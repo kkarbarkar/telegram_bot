@@ -14,3 +14,4 @@ credentials.json
 .env
 config.py
 *.png
+.env
