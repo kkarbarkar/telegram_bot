@@ -3,4 +3,6 @@ credentials.json
 *.json
 
 .Python
-venv/
+venv/credentials.json
+__pycache__/
+*.pyc
