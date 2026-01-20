@@ -6,3 +6,11 @@ credentials.json
 venv/credentials.json
 __pycache__/
 *.pyc
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+credentials.json
+.env
+config.py
+*.png
